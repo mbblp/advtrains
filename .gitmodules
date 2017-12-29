@@ -1,0 +1,12 @@
+[submodule "advtrains_train_zugspitzbahn"]
+	path = advtrains_train_zugspitzbahn
+	url = https://github.com/mbblp/advtrains_train_zugspitzbahn
+[submodule "advtrains_train_orient_express"]
+	path = advtrains_train_orient_express
+	url = https://github.com/mbblp/advtrains_train_orient_express
+[submodule "advtrains_rocket"]
+	path = advtrains_rocket
+	url = https://github.com/mbblp/advtrains_rocket
+[submodule "advtrains_freight_train"]
+	path = advtrains_freight_train
+	url = https://github.com/mbblp/advtrains_freight_train
